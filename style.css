@@ -1,0 +1,29 @@
+body {
+
+ background: rgb(50,100,60);
+
+ font-family: "Euphemia UCAS";
+
+
+ }
+
+ .address {
+   text-align:center;
+   font-size: 20px;
+ }
+ h3{
+   float:left;
+   margin: 5px;
+
+ }
+ span{float: right;
+      margin: 0;
+ }
+  .headingtwo {
+  color: rgb(100,50,70);
+  }
+
+i {
+  clear: both;
+  display: block;
+}
